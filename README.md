@@ -1,13 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-
-PROYECTO PARA SINCRONIZACIÓN DE APIS MONDAY Y MAILCHIMP 
-
-
-
+# PROYECTO PARA SINCRONIZACIÓN DE APIS MONDAY Y MAILCHIMP 
 
 ### `npm install` en backend para instalar las dependencias de npm
 
